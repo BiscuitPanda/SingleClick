@@ -5,6 +5,8 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+group='com.github.GeorgeWan001'
+
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
